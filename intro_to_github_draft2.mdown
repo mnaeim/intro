@@ -18,7 +18,7 @@ Now, it's time to know what GitHub is! Git is a command-line tool in something c
 ## Steps	
 Finally, how to setup Git and GitHub with your computer "Windows"? Follow the steps:
 
-1. Install [Git ] (www.git-scm.com/download/win)
+1. Install [Git ] (https://github.com/mnaeim/intro/blob/master/www.git-scm.com/download/win)
 2. SSH with bit bucket
 3. Install GitHub for Windows	
 4. Clone a Repository from Bit bucket
