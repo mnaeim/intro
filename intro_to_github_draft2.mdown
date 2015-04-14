@@ -24,4 +24,5 @@ Finally, how to setup Git and GitHub with your computer "Windows"? Follow the st
 4. Clone a Repository from Bit bucket
 5. Manage the Repository with GitHub for Windows 
 6. Commit Changes with GitHub for Windows
-**Check** this for more [help ] (www.faisonz.com/blog/github-for-windows-and-bitbucket)
+
+**Check** this for more [help ] (www.faisonz.com/blog/github-for-windows-and-bitbucket/)
