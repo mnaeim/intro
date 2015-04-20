@@ -16,6 +16,7 @@ The git fetch command imports commits from a remote repository into your local r
 Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch, but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
 
 ##git pull
+It is a shortcut for git fetch followed by git merge. Basically, it runs git fetch with the given parameters and then git merge merges the retrieved branch into the curent branch.
 
 ##git merge 
 Merging is Git's way of putting a forked history back together again. The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
