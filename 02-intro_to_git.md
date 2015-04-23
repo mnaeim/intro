@@ -9,14 +9,14 @@ The git status command displays the state of the working directory and the stagi
 ##git add
 The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way-changes are not actually recorded until you run git commit.
 
-###git add -p : 
-Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user the chance to review the difference before adding modified contents to the index.
+###Parameters:
+ * `-p` : Interactively choose hunks of patch between the index and the work tree and add them to the index. This gives the user the chance to review the difference before adding modified contents to the index.
 
 ##git commit
 This is one of the most important Git commands. The git commit command commits the staged snapshot to the project history. Committed snapshots can be thought of as "safe" versions of a project. Git will never change them unless you explicity ask it to. Snapshots are committed to the local repository.
 
-###git commit -m : 
-This command makes you write a summary or a message for the changes you have made before pushing it. 
+###Parameters: 
+ * `-m` : This command makes you write a summary or a message for the changes you have made before pushing it. 
 
 ##git fetch
 The git fetch command imports commits from a remote repository into your local repo. The resulting commits are stored as remote branches instead of the normal local branches that we've been working with. This gives you a chance to review changes before integrating them into your copy of the project.
