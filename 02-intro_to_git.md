@@ -32,3 +32,4 @@ Merging is Git's way of putting a forked history back together again. The git me
 
 ##git checkout
 The git checkout command lets you navigate between the branches created by git branch. Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch. Think of it as a way to select which line of development you're working on. Also, The git checkout command serves three distinct functions: checking out files, checking out commits, and checking out branches. In this module, we're only concerned with the first two configurations. Checking out a commit makes the entire working directory match that commit. This can be used to view an old state of your project without altering your current state in any way. Checking out a file let you see an old version of that particular file, leaving the rest of your working directory untouched.
+
